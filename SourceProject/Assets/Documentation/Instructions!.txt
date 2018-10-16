@@ -1,0 +1,12 @@
+INSTRUCTIONS
+
+AI SCENE 
+Play around with the health and ammo values as the AI runs, AI will run to health and ammo packs 
+if it needs to. It will also only go to packs it has seen, as well as the closest, so fiddle around 
+with moving the health packs to test this. 
+
+AI HIDE SCENE
+AI may glitch out if it stops in between the two structures.
+Depending what angle you come at, the AI works perfectly and runs away from player, less often
+it may choose to path past the player, play around with coming at the AI from different angles
+for best demonstration. 
